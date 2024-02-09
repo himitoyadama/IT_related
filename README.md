@@ -1,4 +1,6 @@
 # how to use office
+テキスト CSV ファイルのオープンと保存
+https://help.libreoffice.org/6.2/ja/text/scalc/guide/csv_files.html?DbPAR=CALC
 
 LibreOfficeの使い方｜ダウンロードからCalcの基本操作 https://m.youtube.com/watch?v=E6sD6BGuc7M
 
