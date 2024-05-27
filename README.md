@@ -1,4 +1,7 @@
 # how to use office
+エクセル・Excelの使い方、フォントのサイズを変えずに拡大表示、データバーだけ隣のセルに表示する方法
+https://m.youtube.com/watch?v=5qIoqLkvbN4
+
 Excelのドロップダウンリストの正しい作り方を解説
 https://m.youtube.com/watch?v=rw5SAFMeuA0
 
