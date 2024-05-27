@@ -1,4 +1,7 @@
 # how to use office
+Excelのドロップダウンリストの正しい作り方を解説
+https://m.youtube.com/watch?v=rw5SAFMeuA0
+
 Excel for Beginners - The Complete Course
 https://m.youtube.com/watch?v=wbJcJCkBcMg
 
