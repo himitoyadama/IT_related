@@ -1,4 +1,7 @@
 # how to use office
+いきなりPython × Excel 1回、コピペコード付属！PythonでExcelやメール送信を自動化しよう。Excelで無理ならPython+GoogleColabで実行　Python入門
+https://www.youtube.com/watch?v=HFps4OfkJ-A&list=PLCLY7GstKj_CsFBqDZpa6RCKd73HjnT7M&index=1&pp=iAQB
+
 エクセル・Excelの使い方、フォントのサイズを変えずに拡大表示、データバーだけ隣のセルに表示する方法
 https://m.youtube.com/watch?v=5qIoqLkvbN4
 
