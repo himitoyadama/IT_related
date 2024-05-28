@@ -1,4 +1,7 @@
 # how to use office
+LibreOffice Calc 「ドロップダウンリスト」
+https://www.youtube.com/watch?app=desktop&v=BIhNGaaCK-k
+
 【Excel】便利な「プルダウンリスト」の作り方。効率UP＆メリット大♪
 https://www.youtube.com/watch?v=JliCutcGLpM
 
