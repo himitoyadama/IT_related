@@ -1,4 +1,7 @@
 # how to use office
+【Excel】便利な「プルダウンリスト」の作り方。効率UP＆メリット大♪
+https://www.youtube.com/watch?v=JliCutcGLpM
+
 いきなりPython × Excel 1回、コピペコード付属！PythonでExcelやメール送信を自動化しよう。Excelで無理ならPython+GoogleColabで実行　Python入門
 https://www.youtube.com/watch?v=HFps4OfkJ-A&list=PLCLY7GstKj_CsFBqDZpa6RCKd73HjnT7M&index=1&pp=iAQB
 
