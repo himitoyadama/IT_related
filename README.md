@@ -1,4 +1,7 @@
 # how to use office
+How to Increase Font Size In Excel Drop-Down List Using VBA | Drop-Down List Font Too Small
+https://m.youtube.com/watch?time_continue=1&v=bhK35YI4v2w&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fdevloc%3D0%26bih%3D732%26hl%3Dja-JP%26ram_mb%3D3463%26aos%3D10%26dpr%3D1.75%26ampcct%3D6422%26prmd%3Dsivnbmtz%26sa%3DX%26lns_as%3D1%26qsub&source_ve_path=Mjg2NjY&feature=emb_logo
+
 【エクセル講座】ドロップダウンリストの文字を大きく表示する方法【音声解説付き】【字幕あり】
 https://m.youtube.com/watch?v=DfeWBV4bXSw
 
