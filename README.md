@@ -1,4 +1,7 @@
 # how to use office
+【エクセル講座】ドロップダウンリストの文字を大きく表示する方法【音声解説付き】【字幕あり】
+https://m.youtube.com/watch?v=DfeWBV4bXSw
+
 LibreOffice Calc 「ドロップダウンリスト」
 https://www.youtube.com/watch?app=desktop&v=BIhNGaaCK-k
 
